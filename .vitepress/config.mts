@@ -3,6 +3,7 @@ import {nav, sidebar} from "./relaconf";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+    base: '/Athen_blog/',
     title: "Athen blog",
     description: "Athen个人博客",
     themeConfig: {
