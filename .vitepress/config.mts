@@ -6,6 +6,7 @@ export default defineConfig({
     base: '/Athen_blog/',
     title: "Athen_blog",
     description: "Athen个人博客",
+    lastUpdated: true,
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         logo: 'avatar.jpg',
