@@ -9,16 +9,16 @@ export const nav: DefaultTheme.NavItem[] = [
     items: [
       {
         text: "大江南北游记",
-        link: "/frontend/",
+        link: "/mdFiles/self/tour",
       },
       {
         text: "所思所想",
-        link: "/backend/",
+        link: "/mdFiles/self/thought",
       },
     ],
   },
   {
     text: "个人简介",
-    link: "/self-introduction",
+    link: "/mdFiles/self/self-introduction",
   },
 ];

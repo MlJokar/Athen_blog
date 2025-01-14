@@ -22,18 +22,18 @@ features:
   - icon: ⚡
     title: 苍穹外卖
     details: Java入门经典项目
-    link: /projects/sky_take_out/intro
+    link: mdFiles/projects/sky-take-out/intro
   - icon: ✉
     title: easychat
     details: 基于Netty的即时通讯聊天项目
-    link: /projects/easychat/intro
+    link: mdFiles/projects/easychat/intro
   - icon: 🔗
     title: 手写RPC
     details: 一个简易的的手写RPC实现
-    link: /projects/rpc/intro
+    link: mdFiles/projects/rpc/intro
   - icon: 👩‍💻
     title: 面试记录
     details: 记录实习和秋招面试
-    link: /interview/intro
+    link: mdFiles/interview/intro
 ---
 

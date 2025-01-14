@@ -12,20 +12,20 @@ hero:
   actions:
     - theme: brand
       text: 项目文档
-      link: /projects/intro
+      link: mdFiles/projects/intro
     - theme: alt
       text: 面试记录
-      link: /interview/intro
+      link: mdFiles/interview/intro
     - theme: brand
-      text: 个人感想
-      link: /easychat/introduction
+      text: 所思所想
+      link: mdFiles/self/thought
 
 
 features:
   - icon: 💻
     title: 后端开发
     details: 练习Java两年半，学不会前端的菜鸡
-    link: /projects/intro
+    link: mdFiles/projects/intro
   - icon: 🏀
     title: 爱打篮球
     details: 篮球狂热少年，球鞋爱好者
