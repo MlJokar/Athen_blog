@@ -7,8 +7,9 @@ hero:
   text: "一个人的碎碎念"
   tagline: 后端开发/程序员
   image:
-    src: /avatar.jpg
+    src: /image.png
     alt: cool 小狗
+    
   actions:
     - theme: brand
       text: 项目文档
